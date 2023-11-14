@@ -44,7 +44,7 @@ public class RegistroFacebookTest {
     }
     
     @Test
-    public void verificarMensajeErrorAlRegistrar(){
+    public void verificarMensajeDeCampoVacioEnRegistro(){
         
         /********** Preparacion de la prueba **********/
     	
